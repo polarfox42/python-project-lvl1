@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "polarfox42_brain_games"
 version = "0.1.0"
-description = ""
+description = "My first Hexlet project on Python3"
 authors = ["polarfox42 <vg.mkrtchyan@gmail.com>"]
 packages = [
     { include = "brain_games" },
